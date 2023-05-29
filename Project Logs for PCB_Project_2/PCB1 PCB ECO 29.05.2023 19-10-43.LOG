@@ -1,0 +1,114 @@
+Added Component: Designator=BK1(ds18b20 (Temperature))
+Added Component: Designator=C1(CAPACITOR)
+Added Component: Designator=C2(Polar CAPACITOR)
+Added Component: Designator=C3(CAPACITOR)
+Added Component: Designator=C4(CAPACITOR)
+Added Component: Designator=C5(Polar CAPACITOR)
+Added Component: Designator=C6(Polar CAPACITOR)
+Added Component: Designator=C7(CAPACITOR)
+Added Component: Designator=DA1(78lo5)
+Added Component: Designator=DD1(PIC16F84A)
+Added Component: Designator=HA1(HC0903A (Пищалка))
+Added Component: Designator=HG1(lsd3212-20 (7 segment display))
+Added Component: Designator=R1(RES 0805)
+Added Component: Designator=R2(RES 0805)
+Added Component: Designator=R3(RES 0805)
+Added Component: Designator=R4(RES 0805)
+Added Component: Designator=R5(RES 0805)
+Added Component: Designator=R6(RES 0805)
+Added Component: Designator=R7(RES 0805)
+Added Component: Designator=R8(RES 0805)
+Added Component: Designator=R9(RES 0805)
+Added Component: Designator=R10(RES 0805)
+Added Component: Designator=R11(RES 0805)
+Added Component: Designator=R12(RES 0805)
+Added Component: Designator=R13(RES 0805)
+Added Component: Designator=R14(RES 0805)
+Added Component: Designator=R15(RES 0805)
+Added Component: Designator=SB1(Button 2 pin)
+Added Component: Designator=SB2(Button 2 pin)
+Added Component: Designator=VD1(КЦ407А (Диодный мост))
+Added Component: Designator=VD3(КД243А)
+Added Component: Designator=VT1(КТ315Б)
+Added Component: Designator=XP1(Screw Terminal)
+Added Component: Designator=Z1(quarz-resonator)
+Added Pin To Net: NetName=NetBK1_1 Pin=BK1-1
+Added Pin To Net: NetName=NetBK1_1 Pin=DD1-5
+Added Pin To Net: NetName=NetBK1_1 Pin=VT1-3
+Added Net: Name=NetBK1_1
+Added Pin To Net: NetName=NetBK1_2 Pin=BK1-2
+Added Pin To Net: NetName=NetBK1_2 Pin=DD1-13
+Added Pin To Net: NetName=NetBK1_2 Pin=R6-2
+Added Net: Name=NetBK1_2
+Added Pin To Net: NetName=NetBK1_3 Pin=BK1-3
+Added Pin To Net: NetName=NetBK1_3 Pin=R3-2
+Added Net: Name=NetBK1_3
+Added Net: Name=NetC1_44
+Added Net: Name=NetC1_45
+Added Net: Name=NetC2_44
+Added Pin To Net: NetName=NetC3_45 Pin=DD1-16
+Added Net: Name=NetC3_45
+Added Pin To Net: NetName=NetC4_44 Pin=DD1-15
+Added Net: Name=NetC4_44
+Added Pin To Net: NetName=NetC5_44 Pin=R2-1
+Added Pin To Net: NetName=NetC5_44 Pin=R4-2
+Added Net: Name=NetC5_44
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=HG1-9
+Added Net: Name=NetDD1_1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=VT1-1
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=HG1-8
+Added Pin To Net: NetName=NetDD1_3 Pin=R8-2
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_4 Pin=R4-1
+Added Net: Name=NetDD1_4
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_6 Pin=R9-2
+Added Net: Name=NetDD1_6
+Added Pin To Net: NetName=NetDD1_7 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_7 Pin=R10-2
+Added Net: Name=NetDD1_7
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_8 Pin=R11-2
+Added Net: Name=NetDD1_8
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-9
+Added Pin To Net: NetName=NetDD1_9 Pin=R12-2
+Added Net: Name=NetDD1_9
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_10 Pin=R13-2
+Added Net: Name=NetDD1_10
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_11 Pin=R5-2
+Added Pin To Net: NetName=NetDD1_11 Pin=R14-2
+Added Net: Name=NetDD1_11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_12 Pin=R7-2
+Added Pin To Net: NetName=NetDD1_12 Pin=R15-2
+Added Net: Name=NetDD1_12
+Added Pin To Net: NetName=NetDD1_17 Pin=DD1-17
+Added Pin To Net: NetName=NetDD1_17 Pin=HG1-9
+Added Net: Name=NetDD1_17
+Added Pin To Net: NetName=NetDD1_18 Pin=DD1-18
+Added Pin To Net: NetName=NetDD1_18 Pin=HG1-9
+Added Net: Name=NetDD1_18
+Added Pin To Net: NetName=NetHA1_76 Pin=VT1-2
+Added Net: Name=NetHA1_76
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Net: Name=NetR7_1
+Added Net: Name=NetVD1_68
+Added Pin To Net: NetName=VCC Pin=DD1-14
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Net: Name=VCC

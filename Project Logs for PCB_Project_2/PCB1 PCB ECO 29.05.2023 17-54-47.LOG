@@ -1,0 +1,52 @@
+Added Component: Designator=DA?(78lo5)
+Added Component: Designator=DD?(PIC16F84A)
+Added Component: Designator=VD?(ÊÖ407À (Äèîäíûé ìîñò))
+Added Component: Designator=XP?(Screw Terminal)
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBK?_1 Pin=DD?-5
+Added Net: Name=NetBK?_1
+Added Pin To Net: NetName=NetBK?_2 Pin=DD?-13
+Added Net: Name=NetBK?_2
+Added Net: Name=NetBK?_3
+Added Net: Name=NetC?_44
+Add Net: Net with name "NetC?_44" already exists
+Add Net: Net with name "NetC?_44" already exists
+Added Pin To Net: NetName=NetC?_45 Pin=DD?-16
+Added Net: Name=NetC?_45
+Added Net: Name=NetC? ìêÔ_44
+Added Net: Name=NetC? ìêÔ_45
+Added Pin To Net: NetName=NetDD?_1 Pin=DD?-1
+Added Net: Name=NetDD?_1
+Added Pin To Net: NetName=NetDD?_2 Pin=DD?-2
+Added Net: Name=NetDD?_2
+Added Pin To Net: NetName=NetDD?_3 Pin=DD?-3
+Added Net: Name=NetDD?_3
+Added Pin To Net: NetName=NetDD?_4 Pin=DD?-4
+Added Net: Name=NetDD?_4
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-6
+Added Net: Name=NetDD?_6
+Added Pin To Net: NetName=NetDD?_7 Pin=DD?-7
+Added Net: Name=NetDD?_7
+Added Pin To Net: NetName=NetDD?_8 Pin=DD?-8
+Added Net: Name=NetDD?_8
+Added Pin To Net: NetName=NetDD?_9 Pin=DD?-9
+Added Net: Name=NetDD?_9
+Added Pin To Net: NetName=NetDD?_10 Pin=DD?-10
+Added Net: Name=NetDD?_10
+Added Pin To Net: NetName=NetDD?_11 Pin=DD?-11
+Added Net: Name=NetDD?_11
+Added Pin To Net: NetName=NetDD?_12 Pin=DD?-12
+Added Net: Name=NetDD?_12
+Added Pin To Net: NetName=NetDD?_17 Pin=DD?-17
+Added Net: Name=NetDD?_17
+Added Pin To Net: NetName=NetDD?_18 Pin=DD?-18
+Added Net: Name=NetDD?_18
+Added Net: Name=NetHA?_76
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Net: Name=NetR? Îì_1
+Added Net: Name=NetR? Îì_2
+Added Net: Name=NetVD?_63
+Added Pin To Net: NetName=VCC Pin=DD?-14
+Added Net: Name=VCC
+Added Class: Name=RomanK1
