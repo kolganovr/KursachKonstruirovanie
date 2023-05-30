@@ -1,0 +1,62 @@
+Added Component: Designator=BK1(ds18b20 (Temperature))
+Added Component: Designator=C1(CAPACITOR)
+Added Component: Designator=C2(Polar CAPACITOR)
+Added Component: Designator=C3(CAPACITOR)
+Added Component: Designator=C4(CAPACITOR)
+Added Component: Designator=C5(Polar CAPACITOR)
+Added Component: Designator=C6(Polar CAPACITOR)
+Added Component: Designator=C7(CAPACITOR)
+Added Component: Designator=DA1(78lo5)
+Added Component: Designator=DD1(PIC16F84A)
+Added Component: Designator=FU1(ВП2Т-1Ш (плавкий предохранитель))
+Added Component: Designator=HA1(HC0903A (Пищалка))
+Added Component: Designator=R1(RES 0805)
+Added Component: Designator=R2(RES 0805)
+Added Component: Designator=R3(RES 0805)
+Added Component: Designator=R4(RES 0805)
+Added Component: Designator=R5(RES 0805)
+Added Component: Designator=R6(RES 0805)
+Added Component: Designator=R7(RES 0805)
+Added Component: Designator=R8(RES 0805)
+Added Component: Designator=R9(RES 0805)
+Added Component: Designator=R10(RES 0805)
+Added Component: Designator=R11(RES 0805)
+Added Component: Designator=R12(RES 0805)
+Added Component: Designator=R13(RES 0805)
+Added Component: Designator=R14(RES 0805)
+Added Component: Designator=SB1(Button 2 pin)
+Added Component: Designator=SB2(Button 2 pin)
+Added Component: Designator=VD1(КЦ407А (Диодный мост))
+Added Component: Designator=VD2(1N5352BRLG, Стабилитрон)
+Added Component: Designator=VD3(КД243А)
+Added Component: Designator=VT1(КТ315Б)
+Added Component: Designator=XP1(Screw Terminal)
+Added Component: Designator=Z1(quarz-resonator)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=XP1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=VD1-5
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=DA1-3
+Added Pin To Net: NetName=NetC2_1 Pin=HA1-1
+Added Pin To Net: NetName=NetC2_1 Pin=VD1-4
+Added Pin To Net: NetName=NetC2_1 Pin=VD2-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=DD1-16
+Added Pin To Net: NetName=NetC3_1 Pin=Z1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=DD1-15
+Added Pin To Net: NetName=NetC4_2 Pin=Z1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R1-1
+Added Pin To Net: NetName=NetC5_1 Pin=R3-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetVD1_1 Pin=VD1-1
+Added Pin To Net: NetName=NetVD1_1 Pin=VD2-1
+Added Pin To Net: NetName=NetVD1_1 Pin=VD3-2
+Added Net: Name=NetVD1_1
