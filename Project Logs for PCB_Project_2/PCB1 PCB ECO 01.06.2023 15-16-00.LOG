@@ -1,0 +1,140 @@
+Added Component: Designator=HG1(LSD3C52-20 (7 segment))
+Added Component: Designator=HG2(LSD3C52-20 (7 segment))
+Added Component: Designator=HG3(LSD3C52-20 (7 segment))
+Added Pin To Net: NetName=NetBK1_1 Pin=BK1-1
+Added Pin To Net: NetName=NetBK1_2 Pin=BK1-2
+Added Pin To Net: NetName=NetBK1_3 Pin=BK1-3
+Added Pin To Net: NetName=NetBK1_1 Pin=C2-2
+Added Pin To Net: NetName=NetBK1_1 Pin=C3-2
+Added Pin To Net: NetName=NetBK1_1 Pin=C4-1
+Added Pin To Net: NetName=NetBK1_1 Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=NetBK1_1 Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=NetBK1_1 Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=DA1-1
+Added Pin To Net: NetName=NetBK1_1 Pin=DA1-2
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetBK1_1 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_7 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-9
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetBK1_2 Pin=DD1-13
+Added Pin To Net: NetName=VCC Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_17 Pin=DD1-17
+Added Pin To Net: NetName=NetDD1_18 Pin=DD1-18
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetFU1_2 Pin=FU1-2
+Added Pin To Net: NetName=NetHA1_2 Pin=HA1-2
+Added Pin To Net: NetName=NetDD1_1 Pin=HG1-6
+Added Pin To Net: NetName=NetDD1_18 Pin=HG2-6
+Added Pin To Net: NetName=NetDD1_3 Pin=HG2-7
+Added Pin To Net: NetName=NetDD1_17 Pin=HG3-6
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=NetBK1_3 Pin=R2-2
+Added Pin To Net: NetName=NetDD1_4 Pin=R3-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetDD1_11 Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=NetBK1_2 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetDD1_12 Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=NetDD1_3 Pin=R7-2
+Added Pin To Net: NetName=NetDD1_6 Pin=R8-2
+Added Pin To Net: NetName=NetDD1_7 Pin=R9-2
+Added Pin To Net: NetName=NetDD1_8 Pin=R10-2
+Added Pin To Net: NetName=NetDD1_9 Pin=R11-2
+Added Pin To Net: NetName=NetDD1_10 Pin=R12-2
+Added Pin To Net: NetName=NetDD1_11 Pin=R13-2
+Added Pin To Net: NetName=NetDD1_12 Pin=R14-2
+Added Pin To Net: NetName=NetR4_1 Pin=SB1-1
+Added Pin To Net: NetName=NetDD1_3 Pin=SB1-2
+Added Pin To Net: NetName=NetR6_1 Pin=SB2-1
+Added Pin To Net: NetName=NetDD1_3 Pin=SB2-2
+Added Pin To Net: NetName=NetFU1_2 Pin=VD1-2
+Added Pin To Net: NetName=NetBK1_1 Pin=VD3-1
+Added Pin To Net: NetName=NetDD1_2 Pin=VT1-1
+Added Pin To Net: NetName=NetHA1_2 Pin=VT1-2
+Added Pin To Net: NetName=NetBK1_1 Pin=VT1-3
+Added Pin To Net: NetName=NetFU1_1 Pin=XP1-1
+Added Pin To Net: NetName=a Pin=HG1-1
+Added Pin To Net: NetName=a Pin=HG2-1
+Added Pin To Net: NetName=a Pin=HG3-1
+Added Pin To Net: NetName=a Pin=R9-1
+Added Net: Name=a
+Added Pin To Net: NetName=b Pin=HG1-10
+Added Pin To Net: NetName=b Pin=HG2-10
+Added Pin To Net: NetName=b Pin=HG3-10
+Added Pin To Net: NetName=b Pin=R10-1
+Added Net: Name=b
+Added Pin To Net: NetName=c Pin=HG1-8
+Added Pin To Net: NetName=c Pin=HG2-8
+Added Pin To Net: NetName=c Pin=HG3-8
+Added Pin To Net: NetName=c Pin=R13-1
+Added Net: Name=c
+Added Pin To Net: NetName=d Pin=HG1-5
+Added Pin To Net: NetName=d Pin=HG2-5
+Added Pin To Net: NetName=d Pin=HG3-5
+Added Pin To Net: NetName=d Pin=R14-1
+Added Net: Name=d
+Added Pin To Net: NetName=e Pin=HG1-4
+Added Pin To Net: NetName=e Pin=HG2-4
+Added Pin To Net: NetName=e Pin=HG3-4
+Added Pin To Net: NetName=e Pin=R12-1
+Added Net: Name=e
+Added Pin To Net: NetName=f Pin=HG1-2
+Added Pin To Net: NetName=f Pin=HG2-2
+Added Pin To Net: NetName=f Pin=HG3-2
+Added Pin To Net: NetName=f Pin=R11-1
+Added Net: Name=f
+Added Pin To Net: NetName=g Pin=HG1-3
+Added Pin To Net: NetName=g Pin=HG2-3
+Added Pin To Net: NetName=g Pin=HG3-3
+Added Pin To Net: NetName=g Pin=R8-1
+Added Net: Name=g
+Added Member To Class: ClassName=RomanK1 Member=Component BK1 DS18B20
+Added Member To Class: ClassName=RomanK1 Member=Component C1 CapacitorBI
+Added Member To Class: ClassName=RomanK1 Member=Component C2 CapcatiorPOL
+Added Member To Class: ClassName=RomanK1 Member=Component C3 CapacitorBI
+Added Member To Class: ClassName=RomanK1 Member=Component C4 CapacitorBI
+Added Member To Class: ClassName=RomanK1 Member=Component C5 CapcatiorPOL
+Added Member To Class: ClassName=RomanK1 Member=Component C6 CapcatiorPOL
+Added Member To Class: ClassName=RomanK1 Member=Component C7 CapacitorBI
+Added Member To Class: ClassName=RomanK1 Member=Component DA1 78L05
+Added Member To Class: ClassName=RomanK1 Member=Component DD1 PIC16F84A
+Added Member To Class: ClassName=RomanK1 Member=Component FU1 Fuse box
+Added Member To Class: ClassName=RomanK1 Member=Component HA1 HC0903A
+Added Member To Class: ClassName=RomanK1 Member=Component HG1 LSD3C52-20
+Added Member To Class: ClassName=RomanK1 Member=Component HG2 LSD3C52-20
+Added Member To Class: ClassName=RomanK1 Member=Component HG3 LSD3C52-20
+Added Member To Class: ClassName=RomanK1 Member=Component R1 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R2 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R3 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R4 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R5 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R6 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R7 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R8 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R9 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R10 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R11 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R12 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R13 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component R14 resistor
+Added Member To Class: ClassName=RomanK1 Member=Component SB1 Button
+Added Member To Class: ClassName=RomanK1 Member=Component SB2 Button
+Added Member To Class: ClassName=RomanK1 Member=Component VD1 diode bridge
+Added Member To Class: ClassName=RomanK1 Member=Component VD2 Stabilitron
+Added Member To Class: ClassName=RomanK1 Member=Component VD3 Diod
+Added Member To Class: ClassName=RomanK1 Member=Component VT1 transistor
+Added Member To Class: ClassName=RomanK1 Member=Component XP1 Power
+Added Member To Class: ClassName=RomanK1 Member=Component Z1 kwarz
