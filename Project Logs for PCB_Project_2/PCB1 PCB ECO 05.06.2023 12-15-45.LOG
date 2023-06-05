@@ -1,0 +1,4 @@
+Added Component: Designator=FU1(SMD06025C2 (Плавкий предохранитель))
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetFU1_2 Pin=FU1-2
+Added Member To Class: ClassName=RomanK1 Member=Component FU1 Fuse box
