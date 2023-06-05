@@ -1,0 +1,4 @@
+Added Component: Designator=HA1(KCG0603-K Пищалка)
+Added Pin To Net: NetName=NetC2_1 Pin=HA1-1
+Added Pin To Net: NetName=NetHA1_2 Pin=HA1-2
+Added Member To Class: ClassName=RomanK1 Member=Component HA1 KCG0603-K
