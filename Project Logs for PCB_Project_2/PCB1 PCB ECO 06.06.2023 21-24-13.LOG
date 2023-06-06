@@ -1,0 +1,4 @@
+Added Component: Designator=VD2(Стабилитрон DIOM5436X247N)
+Added Pin To Net: NetName=NetVD1_1 Pin=VD2-1
+Added Pin To Net: NetName=NetC2_1 Pin=VD2-2
+Added Member To Class: ClassName=RomanK1 Member=Component VD2 Stabilitron
