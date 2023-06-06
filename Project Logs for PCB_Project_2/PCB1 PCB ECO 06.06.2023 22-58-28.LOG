@@ -1,0 +1,4 @@
+Added Component: Designator=XS1(Питание TE_282837-2)
+Added Pin To Net: NetName=NetFU1_1 Pin=XS1-1
+Added Pin To Net: NetName=NetC1_1 Pin=XS1-2
+Added Member To Class: ClassName=RomanK1 Member=Component XS1 Power

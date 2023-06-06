@@ -1,0 +1,4 @@
+Added Component: Designator=VD3(Диод US1A-13-F)
+Added Pin To Net: NetName=NetBK1_1 Pin=VD3-1
+Added Pin To Net: NetName=NetVD1_1 Pin=VD3-2
+Added Member To Class: ClassName=RomanK1 Member=Component VD3 Diod
