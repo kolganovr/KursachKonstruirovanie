@@ -1,0 +1,10 @@
+Added Component: Designator=HG3(LSD3C52-20 (7 segment))
+Added Pin To Net: NetName=a Pin=HG3-1
+Added Pin To Net: NetName=f Pin=HG3-2
+Added Pin To Net: NetName=g Pin=HG3-3
+Added Pin To Net: NetName=e Pin=HG3-4
+Added Pin To Net: NetName=d Pin=HG3-5
+Added Pin To Net: NetName=NetDD1_17 Pin=HG3-6
+Added Pin To Net: NetName=c Pin=HG3-8
+Added Pin To Net: NetName=b Pin=HG3-10
+Added Member To Class: ClassName=RomanK1 Member=Component HG3 LSD3C52-20
