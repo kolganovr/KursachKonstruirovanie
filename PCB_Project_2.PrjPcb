@@ -116,6 +116,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGZPOMJV
 
+[Document5]
+DocumentPath=PCB1.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SAQNPBVJ
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1086,8 +1103,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=RomanK.SchLib
-ComponentDesignItemID0=HC0903A
-ComponentSymbolReference0=HC0903A
+ComponentDesignItemID0=kwarz
+ComponentSymbolReference0=kwarz
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1114,7 +1131,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=HC0903A (Пищалка)
+ModelName0=Кварц DC1608X95N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
