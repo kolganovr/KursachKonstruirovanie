@@ -1,0 +1,4 @@
+Added Component: Designator=Z1(Êגאנצ  hc-49sm)
+Added Pin To Net: NetName=OSC_P Pin=Z1-1
+Added Pin To Net: NetName=OSC_N Pin=Z1-2
+Added Member To Class: ClassName=RomanK1 Member=Component Z1 kwarz
